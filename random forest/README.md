@@ -1,1 +1,1 @@
-Implementation of Random Forest using numpy in python
+random forest using numpy in python
