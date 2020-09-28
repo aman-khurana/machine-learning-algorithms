@@ -1,0 +1,1 @@
+implementation of k-means using numpy in python
